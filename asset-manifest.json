@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/gotcha-catch-em-all/static/css/main.996c0fc8.chunk.css",
+    "main.js": "/gotcha-catch-em-all/static/js/main.f718edb3.chunk.js",
+    "main.js.map": "/gotcha-catch-em-all/static/js/main.f718edb3.chunk.js.map",
+    "runtime-main.js": "/gotcha-catch-em-all/static/js/runtime-main.0b85bc30.js",
+    "runtime-main.js.map": "/gotcha-catch-em-all/static/js/runtime-main.0b85bc30.js.map",
+    "static/js/2.a34dc985.chunk.js": "/gotcha-catch-em-all/static/js/2.a34dc985.chunk.js",
+    "static/js/2.a34dc985.chunk.js.map": "/gotcha-catch-em-all/static/js/2.a34dc985.chunk.js.map",
+    "static/js/3.0a07c8ca.chunk.js": "/gotcha-catch-em-all/static/js/3.0a07c8ca.chunk.js",
+    "static/js/3.0a07c8ca.chunk.js.map": "/gotcha-catch-em-all/static/js/3.0a07c8ca.chunk.js.map",
+    "index.html": "/gotcha-catch-em-all/index.html",
+    "service-worker.js": "/gotcha-catch-em-all/service-worker.js",
+    "service-worker.js.map": "/gotcha-catch-em-all/service-worker.js.map",
+    "static/css/main.996c0fc8.chunk.css.map": "/gotcha-catch-em-all/static/css/main.996c0fc8.chunk.css.map",
+    "static/js/2.a34dc985.chunk.js.LICENSE.txt": "/gotcha-catch-em-all/static/js/2.a34dc985.chunk.js.LICENSE.txt",
+    "static/media/logo-pokemon.3191f291.png": "/gotcha-catch-em-all/static/media/logo-pokemon.3191f291.png",
+    "static/media/pokeball.8b1c3d6c.png": "/gotcha-catch-em-all/static/media/pokeball.8b1c3d6c.png",
+    "static/media/pokemon-bg.0413ecc4.jpg": "/gotcha-catch-em-all/static/media/pokemon-bg.0413ecc4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b85bc30.js",
+    "static/js/2.a34dc985.chunk.js",
+    "static/css/main.996c0fc8.chunk.css",
+    "static/js/main.f718edb3.chunk.js"
+  ]
+}
